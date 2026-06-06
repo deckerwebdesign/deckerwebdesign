@@ -129,14 +129,3 @@ My focus is:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=VISITORS&color=00ff9f&style=flat-square" />
 </p>
-
-
-
-<div align="center">
-
-### 🕹️ SYSTEM STATUS: ACTIVE
-
-### YOU ARE VIEWING A LIVE DEVELOPER ARCADE SYSTEM
-
-</div>
-

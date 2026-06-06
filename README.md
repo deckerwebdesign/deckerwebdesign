@@ -108,7 +108,7 @@ My focus is:
 ## 🎟️ CONTACT TERMINAL
 
 <p align="center">
-  <a href="mailto:youremail@email.com">
+  <a href="mailto:deckerwebdesign@email.com">
     <img src="https://img.shields.io/badge/Email-00FF9F?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/deckerwebdesign">

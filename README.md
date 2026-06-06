@@ -121,15 +121,15 @@ My focus is:
 
 > “Build systems like games — interactive, rewarding, and alive.”
 
----
 
-## 👁️ VISITOR TRACKER
+
+##   VISITOR TRACKER
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=VISITORS&color=00ff9f&style=flat-square" />
 </p>
 
----
+
 
 <div align="center">
 

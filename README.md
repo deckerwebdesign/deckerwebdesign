@@ -6,7 +6,7 @@
 
 <br>
 
-<!-- TERMINAL BOOT STYLE GIF (UPDATED) -->
+<!-- TERMINAL BOOT STYLE GIF -->
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
 
 </div>
@@ -14,17 +14,6 @@
 ---
 
 ## 💾 SYSTEM BOOT LOG
-BOOT SEQUENCE INITIATED...
-LOADING PROFILE DATA...
-COMPILING SKILLS...
-CONNECTING TO GITHUB SERVERS...
-STATUS: ONLINE ✔
-## 👁️ PROFILE VISITS
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=PROFILE%20VIEWS&color=00ff9f&style=flat" />
-</p>
-
 ---
 
 ## 🧑‍💻 ABOUT ME
@@ -61,19 +50,24 @@ STATUS: ONLINE ✔
 
 ---
 
-## 📟 LIVE SYSTEM STATS
+---
+
+## 👁️ VISITOR COUNTER
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=VISITORS&color=ff00ff&style=flat-square" />
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deckerwebdesign&show_icons=true&theme=radical" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckerwebdesign&layout=compact&theme=radical" />
+## 💾 SYSTEM STATUS: STABLE
+### YOU ARE CONNECTED TO DECKERWEBDESIGN
 
 </div>
-
----
 
 ## 🔥 GITHUB ACTIVITY
 
@@ -90,4 +84,3 @@ STATUS: ONLINE ✔
 ---
 
 ## 🚧 PROJECTS (UNDER CONSTRUCTION)
-

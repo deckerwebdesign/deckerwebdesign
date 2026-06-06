@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🕹️ DECKER ARCADE SYSTEM 🕹️
+# 🕹️ DECKERWEBDESIGN 🕹️
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=INSERT+COIN+TO+VIEW+PROFILE;FULL+STACK+DEVELOPER+LOADED;BUILDING+WEB+EXPERIENCES+LIKE+AN+ARCADE+GAME;PRESS+START+TO+CONTINUE" />
-
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="340"/>
 <br>
 
 <!-- ARCADE / RETRO TERMINAL VIBE -->

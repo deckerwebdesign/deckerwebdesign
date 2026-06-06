@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • UI Builder • Digital Experience Creator
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Building+modern+web+apps+with+retro+soul;Frontend+%2B+Backend+Developer;Designing+fast%2C+clean+user+experiences;Arcade-inspired+UI+developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Focused+on+small+businesses;Frontend+%2B+Backend+Developer;Designing+fast%2C+clean+user+experiences;Arcade-inspired+UI+developer" />
 
 </div>
 

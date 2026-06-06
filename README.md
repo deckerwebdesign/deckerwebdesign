@@ -1,75 +1,89 @@
 <div align="center">
 
-# 🕹️ DECKERWEBDESIGN 🕹️
+# 🕹️ DECKERWEBDESIGN
+
+### Full Stack Developer • UI Builder • Digital Experience Creator
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Building+modern+web+apps+with+retro+soul;Frontend+%2B+Backend+Developer;Designing+fast%2C+clean+user+experiences;Arcade-inspired+UI+developer" />
 
 </div>
 
 ---
 
-## 🕹️ PLAYER STATUS<br>
-PLAYER: DECKER<br>
-CLASS: FULL STACK DEVELOPER<br>
-LEVEL: 01 (RISING DEV)<br>
-HP: █████████░ 85%<br>
-MP: ████████░░ 80%<br>
-STATUS: ONLINE ✔
+## 🎮 PLAYER PROFILE
 
-
----
-
-## 🎮 ABOUT THIS PLAYER
-
-- 👾 Full Stack Developer (Frontend + Backend unlocked)
-- 🧠 Focus: Clean UI, fast systems, smooth UX
-- ⚡ Special Ability: Turning ideas into web apps
-- 🌐 Quest: Build SaaS + client-ready platforms
-- 🕹️ Inspiration: Arcade machines + early internet era
+```txt
+Name:        Decker
+Class:       Full Stack Developer
+Level:       01 • Rising Developer
+Health:      █████████░ 85%
+Energy:      ████████░░ 80%
+Status:      ONLINE
+Focus:       Web Apps • UI Systems • SaaS Builds
+````
 
 ---
 
-## 🧱 SKILL TREE
+## 🧠 ABOUT
 
-### 🎮 FRONTEND SKILLS
+I build **modern web applications** with a **retro arcade-inspired aesthetic**.
+
+My focus is:
+
+* ⚡ Fast, responsive interfaces
+* 🎨 Clean UI systems
+* 🧩 Scalable full-stack architectures
+* 🕹️ Interactive, engaging web experiences
+
+---
+
+## 🧱 TECH STACK
+
+### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### 🧠 BACKEND SKILLS
+### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### 💾 DATABASE POWER
+### Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### 🛠 SYSTEM TOOLS
+### Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 📊 ARCADE STATS BOARD
+## 📊 PERFORMANCE DASHBOARD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deckerwebdesign&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=deckerwebdesign&show_icons=true&theme=tokyonight" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckerwebdesign&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckerwebdesign&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🔥 COMBO STREAK
+## 🔥 ACTIVITY LEVEL
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=deckerwebdesign&theme=neon-dark" />
+<img src="https://streak-stats.demolab.com?user=deckerwebdesign&theme=dark" />
 
 <br>
 
@@ -79,45 +93,49 @@ STATUS: ONLINE ✔
 
 ---
 
-## 🧩 ACTIVE QUESTS
-✔ Portfolio Website — COMPLETED
-✔ Full Stack Web App — COMPLETED
-⏳ SaaS Platform — IN PROGRESS
-⏳ UI Component Library — LOCKED
+## 🧩 CURRENT QUESTS
 
+```txt
+✔ Portfolio Website        → Completed
+✔ Full Stack Web App      → Completed
+⏳ SaaS Platform          → In Progress
+⏳ Component Library      → Locked
+```
 
 ---
 
-## 🎟️ INSERT COIN (CONTACT)
+## 🎟️ CONTACT TERMINAL
 
 <p align="center">
   <a href="mailto:youremail@email.com">
-    <img src="https://img.shields.io/badge/EMAIL-00FF66?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-00FF9F?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/deckerwebdesign">
-    <img src="https://img.shields.io/badge/GITHUB-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 DEV QUOTE
-PRESS START. BUILD EVERYTHING. BREAK LIMITS.
+## 💬 DEV QUOTE
 
+> “Build systems like games — interactive, rewarding, and alive.”
 
 ---
 
-## 👁️ HIGH SCORE COUNTER
+## 👁️ VISITOR TRACKER
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=HIGH%20SCORE%20VISITS&color=00ff66&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=VISITORS&color=00ff9f&style=flat-square" />
 </p>
 
 ---
 
 <div align="center">
 
-## 🕹️ GAME STATUS: RUNNING
-### PLAYER CONNECTED TO DECKER ARCADE SYSTEM
+### 🕹️ SYSTEM STATUS: ACTIVE
+
+### YOU ARE VIEWING A LIVE DEVELOPER ARCADE SYSTEM
 
 </div>
+

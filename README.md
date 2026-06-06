@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕹️ DECKERWEBDESIGN
+#  DECKERWEBDESIGN
 
 ### Full Stack Developer • UI Builder • Digital Experience Creator
 

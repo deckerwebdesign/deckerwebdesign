@@ -26,7 +26,7 @@ Focus:       Web Apps • UI Systems • SaaS Builds
 
 ## 🧠 ABOUT
 
-I build **modern web applications** with a **retro arcade-inspired aesthetic**.
+I build **modern web applications** with a focus on **small businesses**.
 
 My focus is:
 

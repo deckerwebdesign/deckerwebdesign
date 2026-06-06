@@ -6,21 +6,23 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9mZ3Z0d2Z0d2V5bGJ2d3J6a3R5bG9mY2p4b3Z4bG9kZzN1b3Z3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
+<!-- TERMINAL BOOT STYLE GIF (UPDATED) -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
 
 </div>
 
 ---
 
 ## 💾 SYSTEM BOOT LOG
-
-
----
-
-## ⚡ Profile Views
+BOOT SEQUENCE INITIATED...
+LOADING PROFILE DATA...
+COMPILING SKILLS...
+CONNECTING TO GITHUB SERVERS...
+STATUS: ONLINE ✔
+## 👁️ PROFILE VISITS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=Profile%20Views&color=7c5cff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=PROFILE%20VIEWS&color=00ff9f&style=flat" />
 </p>
 
 ---
@@ -88,3 +90,4 @@
 ---
 
 ## 🚧 PROJECTS (UNDER CONSTRUCTION)
+

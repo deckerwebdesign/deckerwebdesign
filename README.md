@@ -1,75 +1,78 @@
 <div align="center">
 
-# 🌐 WELCOME TO DECKER'S CYBER SPACE 🌐
+# 🕹️ DECKER ARCADE SYSTEM 🕹️
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=900&color=00FF9F&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;BUILDING+WEB+EXPERIENCES+LIKE+IT'S+1999;HTML+CSS+JS+ARE+MY+SUPERPOWERS;WELCOME+TO+MY+DIGITAL+WORLD" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=INSERT+COIN+TO+VIEW+PROFILE;FULL+STACK+DEVELOPER+LOADED;BUILDING+WEB+EXPERIENCES+LIKE+AN+ARCADE+GAME;PRESS+START+TO+CONTINUE" />
 
 <br>
 
-<!-- TERMINAL BOOT STYLE GIF -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
+<!-- ARCADE / RETRO TERMINAL VIBE -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="340"/>
 
 </div>
 
 ---
 
-## 💾 SYSTEM BOOT LOG
----
+## 🕹️ PLAYER STATUS
+PLAYER: DECKER
+CLASS: FULL STACK DEVELOPER
+LEVEL: 01 (RISING DEV)
+HP: █████████░ 85%
+MP: ████████░░ 80%
+STATUS: ONLINE ✔
 
-## 🧑‍💻 ABOUT ME
-
-- 💻 Full Stack Developer (frontend + backend)
-- 🧠 Passionate about clean UI + retro aesthetics
-- ⚡ I build fast, responsive web apps
-- 🌐 Turning ideas into real digital products
-- 🕹️ Inspired by 90s internet + early web games
 
 ---
 
-## 🧱 TECH STACK
+## 🎮 ABOUT THIS PLAYER
 
-### 🎮 FRONTEND
+- 👾 Full Stack Developer (Frontend + Backend unlocked)
+- 🧠 Focus: Clean UI, fast systems, smooth UX
+- ⚡ Special Ability: Turning ideas into web apps
+- 🌐 Quest: Build SaaS + client-ready platforms
+- 🕹️ Inspiration: Arcade machines + early internet era
+
+---
+
+## 🧱 SKILL TREE
+
+### 🎮 FRONTEND SKILLS
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-### 🧠 BACKEND
+### 🧠 BACKEND SKILLS
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### 💾 DATABASES
+### 💾 DATABASE POWER
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### 🛠 TOOLS
+### 🛠 SYSTEM TOOLS
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
----
-
-## 👁️ VISITOR COUNTER
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=VISITORS&color=ff00ff&style=flat-square" />
-</p>
-
----
+## 📊 ARCADE STATS BOARD
 
 <div align="center">
 
-## 💾 SYSTEM STATUS: STABLE
-### YOU ARE CONNECTED TO DECKERWEBDESIGN
+<img src="https://github-readme-stats.vercel.app/api?username=deckerwebdesign&show_icons=true&theme=radical" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckerwebdesign&layout=compact&theme=radical" />
 
 </div>
 
-## 🔥 GITHUB ACTIVITY
+---
+
+## 🔥 COMBO STREAK
 
 <div align="center">
 
@@ -83,4 +86,45 @@
 
 ---
 
-## 🚧 PROJECTS (UNDER CONSTRUCTION)
+## 🧩 ACTIVE QUESTS
+✔ Portfolio Website — COMPLETED
+✔ Full Stack Web App — COMPLETED
+⏳ SaaS Platform — IN PROGRESS
+⏳ UI Component Library — LOCKED
+
+
+---
+
+## 🎟️ INSERT COIN (CONTACT)
+
+<p align="center">
+  <a href="mailto:youremail@email.com">
+    <img src="https://img.shields.io/badge/EMAIL-00FF66?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/deckerwebdesign">
+    <img src="https://img.shields.io/badge/GITHUB-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 DEV QUOTE
+PRESS START. BUILD EVERYTHING. BREAK LIMITS.
+
+
+---
+
+## 👁️ HIGH SCORE COUNTER
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=HIGH%20SCORE%20VISITS&color=00ff66&style=flat-square" />
+</p>
+
+---
+
+<div align="center">
+
+## 🕹️ GAME STATUS: RUNNING
+### PLAYER CONNECTED TO DECKER ARCADE SYSTEM
+
+</div>

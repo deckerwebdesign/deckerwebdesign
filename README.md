@@ -6,12 +6,12 @@
 
 ---
 
-## 🕹️ PLAYER STATUS
-PLAYER: DECKER
-CLASS: FULL STACK DEVELOPER
-LEVEL: 01 (RISING DEV)
-HP: █████████░ 85%
-MP: ████████░░ 80%
+## 🕹️ PLAYER STATUS<br>
+PLAYER: DECKER<br>
+CLASS: FULL STACK DEVELOPER<br>
+LEVEL: 01 (RISING DEV)<br>
+HP: █████████░ 85%<br>
+MP: ████████░░ 80%<br>
 STATUS: ONLINE ✔
 
 

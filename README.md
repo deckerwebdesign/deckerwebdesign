@@ -39,30 +39,31 @@ My focus is:
 
 ## 🧱 TECH STACK
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### Backend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
-
 ---
 
 ## 📊 PERFORMANCE DASHBOARD

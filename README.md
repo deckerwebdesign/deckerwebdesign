@@ -67,21 +67,6 @@ My focus is:
 ---
 
 
-
----
-
-## 🔥 ACTIVITY LEVEL
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deckerwebdesign&theme=dark" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deckerwebdesign&theme=react-dark" />
-
-</div>
-
 ---
 
 ## 🧩 CURRENT QUESTS

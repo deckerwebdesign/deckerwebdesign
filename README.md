@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Decker</h1>
+<h1 align="center">Hey 👋, I'm Decker Web Design</h1>
 <h3 align="center">I build modern websites, tools, and digital experiences.</h3>
 
 <p align="center">

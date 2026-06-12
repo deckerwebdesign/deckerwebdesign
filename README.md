@@ -1,106 +1,76 @@
-<div align="center">
-
-#  DECKERWEBDESIGN
-
-### Full Stack Developer • UI Builder • Digital Experience Creator
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Focused+on+small+businesses;Frontend+%2B+Backend+Developer;Designing+fast%2C+clean+user+experiences;Always+learning+something+new" />
-
-</div>
-
----
-
-## 🎮 PLAYER PROFILE
-
-```txt
-Name:        Decker
-Class:       Full Stack Developer
-Level:       01 • Rising Developer
-Health:      █████████░ 85%
-Energy:      ████████░░ 80%
-Status:      ONLINE
-Focus:       Web Apps • UI Systems • SaaS Builds
-````
-
----
-
-## 🧠 ABOUT
-
-I build **modern web applications** with a focus on **small businesses**.
-
-My focus is:
-
-* ⚡ Fast, responsive interfaces
-* 🎨 Clean UI systems
-* 🧩 Scalable full-stack architectures
-* 🕹️ Interactive, engaging web experiences
-
----
-
-## 🧱 TECH STACK
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
----
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
-
----
-
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
----
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
----
-
-
----
-
-## 🧩 CURRENT QUESTS
-
-```txt
-✔ Portfolio Website        → Completed
-✔ Full Stack Web App      → Completed
-⏳ SaaS Platform          → In Progress
-⏳ Component Library      → Locked
-```
-
----
-
-## 🎟️ CONTACT TERMINAL
+<h1 align="center">Hey 👋, I'm Decker</h1>
+<h3 align="center">I build modern websites, tools, and digital experiences.</h3>
 
 <p align="center">
-  <a href="mailto:deckerwebdesign@email.com">
-    <img src="https://img.shields.io/badge/Email-00FF9F?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
   <a href="https://github.com/deckerwebdesign">
-    <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-## 💬 DEV QUOTE
+## 🧠 About Me
 
-> “Build systems like games — interactive, rewarding, and alive.”
+- 💻 Full-stack developer focused on clean, modern design  
+- ⚡ I build landing pages, business websites, and custom tools  
+- 🎯 Currently leveling up: AI integrations + SaaS projects  
+- 💸 Open to freelance work (Fiverr & custom projects)  
+- 🌱 Always learning & improving every day  
 
+---
 
+## 🛠️ Tech Stack
 
-##   VISITOR TRACKER
+### Frontend
+- HTML, CSS, JavaScript  
+- React, Next.js  
+- Tailwind CSS  
+
+### Backend
+- Node.js, Express  
+- Python  
+
+### Database
+- MongoDB, MySQL, Firebase  
+
+### Tools
+- Git & GitHub  
+- VS Code  
+- Vercel  
+
+---
+
+## 🔥 Featured Projects
+
+### 🌐 Landing Page Builder
+- Modern, responsive landing pages for businesses  
+- Video backgrounds, animations, and fast load times  
+
+### 🤖 AI Chatbot Template
+- Customizable chatbot for websites  
+- Built for future integrations  
+
+### 📊 Budget Planner App
+- Helps track income, expenses, and savings goals  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deckerwebdesign&label=VISITORS&color=00ff9f&style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deckerwebdesign&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deckerwebdesign&theme=tokyonight" />
 </p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 Fiverr: https://www.fiverr.com/sellers/kelseadecker
+- 📧 Email: deckerwebdesign
+
+---
+
+## ⚡ Fun Fact
+
+I combine **creative design + code** to build experiences that actually convert 🚀

@@ -67,7 +67,7 @@
 ## 📫 Connect With Me
 
 - 💼 Fiverr: https://www.fiverr.com/sellers/kelseadecker
-- 📧 Email: deckerwebdesign
+- 📧 Email: deckerwebdesign@gmail.com
 
 ---
 
